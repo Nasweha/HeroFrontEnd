@@ -1,0 +1,9 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Playfair Display", system-ui;
+}
+body{
+  overflow-x: hidden;
+  /* background: radial-gradient(circle at 10% 20%, rgb(26, 178, 203) 0%, rgb(0, 102, 161) 90.1%); */
+}
